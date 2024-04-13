@@ -6,7 +6,7 @@ For this particular project, the data used was created by pickesueat published i
 
 The project contains the exploratory data analysis of the different features and their impact on the target variable. Data cleaning and preprocessing were performed. Machine learning regression techniques were employed and a comparative study was performed on the following models (Linear Regression, Decision Tree, Random Forest, Bagging Regressor, ADABoost and XGBoost) to forecast salaries across a spectrum of data science positions.
 
-Link to the dataset: [Dataset Link] (https://github.com/picklesueat/data_jobs_data)
+Link to the dataset: https://github.com/picklesueat/data_jobs_data
 
 There are 2 folders in the github repo, namely Code and Report.
 
